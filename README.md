@@ -4,7 +4,7 @@
 <ul>
 <li><span data-preserver-spaces="true">This task uses python modules azure-mgmt-resource &amp; azure-mgmt-datafactory to make REST-API calls to Azure Data Factory</span></li>
 <li><span data-preserver-spaces="true">This task will use the Azure Tenant id, Subscription id, client id, client secret, Resource group &amp; location for authenticating the REST-API calls to Azure Data Factory.&nbsp;</span></li>
-<li><span data-preserver-spaces="true">Users can perform the below Azure Data Factory operations.</span></li>
+<li><span data-preserver-spaces="true">Users can perform the below Azure Data Factory operations:</span></li>
 <ul>
 <li class="ql-indent-1"><span data-preserver-spaces="true">Run a Pipeline&nbsp;</span></li>
 <li class="ql-indent-1"><span data-preserver-spaces="true">Get a Pipeline info</span></li>
